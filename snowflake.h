@@ -24,7 +24,7 @@ THE SOFTWARE.
 #define __SNOWFLAKE__
 
 // the timestamp in milliseconds of the start of the custom epoch
-#define SNOWFLAKE_EPOCH 1388534400000 //Midnight January 1, 2014
+#define SNOWFLAKE_EPOCH 1609459200000 // Midnight UTC, January 1, 2021
 
 #define SNOWFLAKE_TIME_BITS 41
 #define SNOWFLAKE_REGIONID_BITS 4
